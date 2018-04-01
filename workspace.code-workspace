@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "/home/josh/code/node-event-loop-stats"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "/home/josh/code/node-nice"
+		}
+	],
+	"settings": {
+		"typescript.tsdk": "node_modules/typescript/lib/"
+	}
+}
