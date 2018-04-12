@@ -1,7 +1,10 @@
 {
   "dependencies": {
+    "docopt": "^0.6.2",
     "double-ended-queue": "^2.1.0-0",
     "fast-stats": "0.0.3",
+    "node-event-loop-stats": "0.0.1",
+    "node-nice": "0.0.1",
     "terminal-kit": "^1.15.1"
   }
 }
